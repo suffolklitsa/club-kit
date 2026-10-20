@@ -31,7 +31,7 @@ Tools any student organization can use to run events and keep track of members. 
 
 ## Using it at another school
 
-The checklist names Suffolk Law offices (the Dean of Students, Professional and Career Development, Media Services). Swap in your school's equivalents; the steps and timing carry over. The tools don't depend on Suffolk at all. If you adapt the checklist for your school, we'd welcome it as a pull request: see [#7](https://github.com/suffolklitsa/club-kit/issues/7).
+The checklist names Suffolk Law offices (the Dean of Students, Professional and Career Development, Media Services). Swap in your school's equivalents; the steps and timing carry over. The tools don't depend on Suffolk at all. If you adapt the checklist for your school, we'd welcome it as a pull request: see [#8](https://github.com/suffolklitsa/club-kit/issues/8).
 
 ## Member data stays out
 

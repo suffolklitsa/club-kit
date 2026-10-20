@@ -13,8 +13,8 @@
 - Roster from sign-in sheets (#3) and mailing-list reconciliation (#4)
 - QR codes as SVG for print shops (#5)
 - Printable one-page checklist (#6)
-- The checklist adapted for other schools (#7)
-- A neutral theme other clubs can recolor (#8)
+- The checklist adapted for other schools (#8)
+- A neutral theme other clubs can recolor (#9)
 
 ## Later
 
